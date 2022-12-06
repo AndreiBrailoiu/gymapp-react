@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gymapp-react/static/css/main.d9d06e0a.css",
+    "main.js": "/gymapp-react/static/js/main.5c2493aa.js",
+    "static/js/787.3757e0d1.chunk.js": "/gymapp-react/static/js/787.3757e0d1.chunk.js",
+    "index.html": "/gymapp-react/index.html",
+    "main.d9d06e0a.css.map": "/gymapp-react/static/css/main.d9d06e0a.css.map",
+    "main.5c2493aa.js.map": "/gymapp-react/static/js/main.5c2493aa.js.map",
+    "787.3757e0d1.chunk.js.map": "/gymapp-react/static/js/787.3757e0d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d06e0a.css",
+    "static/js/main.5c2493aa.js"
+  ]
+}
